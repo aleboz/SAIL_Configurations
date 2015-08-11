@@ -1,0 +1,1031 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.900771,
+          52.379922,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oranje Route - CS",
+        "description": "id: oRoute1<br>name: Oranje Route - CS<br>Name: CS<br>Latitude: 52.379922<br>Longitude: 4.900771",
+        "id": "oRoute1",
+        "Name": "CS",
+        "Latitude": 52.379922,
+        "Longitude": 4.900771
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.904966,
+          52.378461,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oranje Route",
+        "description": "id: oRoute2<br>name: Oranje Route<br>Name: <br>Latitude: 52.378461<br>Longitude: 4.904966",
+        "id": "oRoute2",
+        "Name": null,
+        "Latitude": 52.378461,
+        "Longitude": 4.904966
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.906667,
+          52.37821600000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oranje Route",
+        "description": "id: oRoute3<br>name: Oranje Route<br>Name: <br>Latitude: 52.378216<br>Longitude: 4.906667",
+        "id": "oRoute3",
+        "Name": null,
+        "Latitude": 52.378216,
+        "Longitude": 4.906667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.911135,
+          52.377613000000004,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oranje Route",
+        "description": "id: oRoute4<br>name: Oranje Route<br>Name: <br>Latitude: 52.377613<br>Longitude: 4.911135",
+        "id": "oRoute4",
+        "Name": null,
+        "Latitude": 52.377613,
+        "Longitude": 4.911135
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.916124,
+          52.377312,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oranje Route",
+        "description": "id: oRoute5<br>name: Oranje Route<br>Name: <br>Latitude: 52.377312<br>Longitude: 4.916124",
+        "id": "oRoute5",
+        "Name": null,
+        "Latitude": 52.377312,
+        "Longitude": 4.916124
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.912359,
+          52.377983,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oranje Route",
+        "description": "id: oRoute6<br>name: Oranje Route<br>Name: <br>Latitude: 52.377983<br>Longitude: 4.912359",
+        "id": "oRoute6",
+        "Name": null,
+        "Latitude": 52.377983,
+        "Longitude": 4.912359
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.912600000000001,
+          52.378687,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oranje Route",
+        "description": "id: oRoute7<br>name: Oranje Route<br>Name: <br>Latitude: 52.378687<br>Longitude: 4.912600",
+        "id": "oRoute7",
+        "Name": null,
+        "Latitude": 52.378687,
+        "Longitude": "4.912600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.922422,
+          52.377014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oranje Route - JS Brug",
+        "description": "id: oRoute8<br>name: Oranje Route - JS Brug<br>Name: js brug<br>Latitude: 52.377014<br>Longitude: 4.922422",
+        "id": "oRoute8",
+        "Name": "js brug",
+        "Latitude": 52.377014,
+        "Longitude": 4.922422
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.939878,
+          52.374008,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oranje Route - Einde Veemkade",
+        "description": "id: oRoute9<br>name: Oranje Route - Einde Veemkade<br>Name: einde veemkade<br>Latitude: 52.374008<br>Longitude: 4.939878",
+        "id": "oRoute9",
+        "Name": "einde veemkade",
+        "Latitude": 52.374008,
+        "Longitude": 4.939878
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.937367,
+          52.376438,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oranje Route",
+        "description": "id: oRoute10<br>name: Oranje Route<br>Name: <br>Latitude: 52.376438<br>Longitude: 4.937367",
+        "id": "oRoute10",
+        "Name": null,
+        "Latitude": 52.376438,
+        "Longitude": 4.937367
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.937185,
+          52.377184,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oranje Route",
+        "description": "id: oRoute11<br>name: Oranje Route<br>Name: <br>Latitude: 52.377184<br>Longitude: 4.937185",
+        "id": "oRoute11",
+        "Name": null,
+        "Latitude": 52.377184,
+        "Longitude": 4.937185
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.933580000000001,
+          52.377315,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oranje Route",
+        "description": "id: oRoute12<br>name: Oranje Route<br>Name: <br>Latitude: 52.377315<br>Longitude: 4.933580",
+        "id": "oRoute12",
+        "Name": null,
+        "Latitude": 52.377315,
+        "Longitude": "4.933580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.932443,
+          52.377354000000004,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oranje Route",
+        "description": "id: oRoute13<br>name: Oranje Route<br>Name: <br>Latitude: 52.377354<br>Longitude: 4.932443",
+        "id": "oRoute13",
+        "Name": null,
+        "Latitude": 52.377354,
+        "Longitude": 4.932443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.923238,
+          52.378985,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oranje Route",
+        "description": "id: oRoute14<br>name: Oranje Route<br>Name: <br>Latitude: 52.378985<br>Longitude: 4.923238",
+        "id": "oRoute14",
+        "Name": null,
+        "Latitude": 52.378985,
+        "Longitude": 4.923238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.920276,
+          52.379535,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oranje Route",
+        "description": "id: oRoute15<br>name: Oranje Route<br>Name: <br>Latitude: 52.379535<br>Longitude: 4.920276",
+        "id": "oRoute15",
+        "Name": null,
+        "Latitude": 52.379535,
+        "Longitude": 4.920276
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.917959,
+          52.379293,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oranje Route",
+        "description": "id: oRoute16<br>name: Oranje Route<br>Name: <br>Latitude: 52.379293<br>Longitude: 4.917959",
+        "id": "oRoute16",
+        "Name": null,
+        "Latitude": 52.379293,
+        "Longitude": 4.917959
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.917873,
+          52.379679,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oranje Route",
+        "description": "id: oRoute17<br>name: Oranje Route<br>Name: <br>Latitude: 52.379679<br>Longitude: 4.917873",
+        "id": "oRoute17",
+        "Name": null,
+        "Latitude": 52.379679,
+        "Longitude": 4.917873
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.922637,
+          52.380203,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oranje Route - Kop Java Kleine Kapitein",
+        "description": "id: oRoute18<br>name: Oranje Route - Kop Java Kleine Kapitein<br>Name: kop java kleine kapitein<br>Latitude: 52.380203<br>Longitude: 4.922637",
+        "id": "oRoute18",
+        "Name": "kop java kleine kapitein",
+        "Latitude": 52.380203,
+        "Longitude": 4.922637
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.937131,
+          52.377643,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oranje Route",
+        "description": "id: oRoute19<br>name: Oranje Route<br>Name: <br>Latitude: 52.377643<br>Longitude: 4.937131",
+        "id": "oRoute19",
+        "Name": null,
+        "Latitude": 52.377643,
+        "Longitude": 4.937131
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.937689,
+          52.376254,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oranje Route",
+        "description": "id: oRoute20<br>name: Oranje Route<br>Name: <br>Latitude: 52.376254<br>Longitude: 4.937689",
+        "id": "oRoute20",
+        "Name": null,
+        "Latitude": 52.376254,
+        "Longitude": 4.937689
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.940372,
+          52.373791,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oranje Route - vebindingsdam / zuidzijde",
+        "description": "id: oRoute21<br>name: Oranje Route - vebindingsdam / zuidzijde<br>Name: vebindingsdam / zuidzijde<br>Latitude: 52.373791<br>Longitude: 4.940372",
+        "id": "oRoute21",
+        "Name": "vebindingsdam / zuidzijde",
+        "Latitude": 52.373791,
+        "Longitude": 4.940372
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.938612,
+          52.37366,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oranje Route",
+        "description": "id: oRoute22<br>name: Oranje Route<br>Name: <br>Latitude: 52.373660<br>Longitude: 4.938612",
+        "id": "oRoute22",
+        "Name": null,
+        "Latitude": "52.373660",
+        "Longitude": 4.938612
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.929664,
+          52.375272,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oranje Route",
+        "description": "id: oRoute23<br>name: Oranje Route<br>Name: <br>Latitude: 52.375272<br>Longitude: 4.929664",
+        "id": "oRoute23",
+        "Name": null,
+        "Latitude": 52.375272,
+        "Longitude": 4.929664
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.928763,
+          52.37518,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oranje Route",
+        "description": "id: oRoute24<br>name: Oranje Route<br>Name: <br>Latitude: 52.375180<br>Longitude: 4.928763",
+        "id": "oRoute24",
+        "Name": null,
+        "Latitude": "52.375180",
+        "Longitude": 4.928763
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.921446,
+          52.376438,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oranje Route",
+        "description": "id: oRoute25<br>name: Oranje Route<br>Name: <br>Latitude: 52.376438<br>Longitude: 4.921446",
+        "id": "oRoute25",
+        "Name": null,
+        "Latitude": 52.376438,
+        "Longitude": 4.921446
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.916167,
+          52.377237,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oranje Route",
+        "description": "id: oRoute26<br>name: Oranje Route<br>Name: <br>Latitude: 52.377237<br>Longitude: 4.916167",
+        "id": "oRoute26",
+        "Name": null,
+        "Latitude": 52.377237,
+        "Longitude": 4.916167
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.900771,
+          52.379922,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Route Paars",
+        "description": "id: pRoute1<br>name: Route Paars<br>Name: Route Paars<br>Latitude: 52.379922<br>Longitude: 4.900771",
+        "id": "pRoute1",
+        "Name": "Route Paars",
+        "Latitude": 52.379922,
+        "Longitude": 4.900771
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.904966,
+          52.378461,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Route Paars",
+        "description": "id: pRoute2<br>name: Route Paars<br>Name: <br>Latitude: 52.378461<br>Longitude: 4.904966",
+        "id": "pRoute2",
+        "Name": null,
+        "Latitude": 52.378461,
+        "Longitude": 4.904966
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.906667,
+          52.37821600000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Route Paars",
+        "description": "id: pRoute3<br>name: Route Paars<br>Name: <br>Latitude: 52.378216<br>Longitude: 4.906667",
+        "id": "pRoute3",
+        "Name": null,
+        "Latitude": 52.378216,
+        "Longitude": 4.906667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90855,
+          52.38186,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Route Paars - Ijplein",
+        "description": "id: pRoute4<br>name: Route Paars - Ijplein<br>Name: Ijplein<br>Latitude: 52.381860<br>Longitude: 4.908550",
+        "id": "pRoute4",
+        "Name": "Ijplein",
+        "Latitude": "52.381860",
+        "Longitude": "4.908550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.909011,
+          52.38198500000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Route Paars",
+        "description": "id: pRoute5<br>name: Route Paars<br>Name: <br>Latitude: 52.381985<br>Longitude: 4.909011",
+        "id": "pRoute5",
+        "Name": null,
+        "Latitude": 52.381985,
+        "Longitude": 4.909011
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.909494,
+          52.382286,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Route Paars",
+        "description": "id: pRoute6<br>name: Route Paars<br>Name: <br>Latitude: 52.382286<br>Longitude: 4.909494",
+        "id": "pRoute6",
+        "Name": null,
+        "Latitude": 52.382286,
+        "Longitude": 4.909494
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.910041,
+          52.38209,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Route Paars",
+        "description": "id: pRoute7<br>name: Route Paars<br>Name: <br>Latitude: 52.382090<br>Longitude: 4.910041",
+        "id": "pRoute7",
+        "Name": null,
+        "Latitude": "52.382090",
+        "Longitude": 4.910041
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.914354,
+          52.382103,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Route Paars - Hollandia Kattenburgpad",
+        "description": "id: pRoute8<br>name: Route Paars - Hollandia Kattenburgpad<br>Name: Hollandia Kattenburgpad<br>Latitude: 52.382103<br>Longitude: 4.914354",
+        "id": "pRoute8",
+        "Name": "Hollandia Kattenburgpad",
+        "Latitude": 52.382103,
+        "Longitude": 4.914354
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.914622,
+          52.38133,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Route Paars - Noordwal / smederij",
+        "description": "id: pRoute9<br>name: Route Paars - Noordwal / smederij<br>Name: Noordwal / smederij<br>Latitude: 52.381330<br>Longitude: 4.914622",
+        "id": "pRoute9",
+        "Name": "Noordwal / smederij",
+        "Latitude": "52.381330",
+        "Longitude": 4.914622
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.919171,
+          52.381873,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Route Paars",
+        "description": "id: pRoute10<br>name: Route Paars<br>Name: <br>Latitude: 52.381873<br>Longitude: 4.919171",
+        "id": "pRoute10",
+        "Name": null,
+        "Latitude": 52.381873,
+        "Longitude": 4.919171
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.918925,
+          52.382751,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Route Paars",
+        "description": "id: pRoute11<br>name: Route Paars<br>Name: <br>Latitude: 52.382751<br>Longitude: 4.918925",
+        "id": "pRoute11",
+        "Name": null,
+        "Latitude": 52.382751,
+        "Longitude": 4.918925
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.919515,
+          52.382875,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Route Paars",
+        "description": "id: pRoute12<br>name: Route Paars<br>Name: <br>Latitude: 52.382875<br>Longitude: 4.919515",
+        "id": "pRoute12",
+        "Name": null,
+        "Latitude": 52.382875,
+        "Longitude": 4.919515
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.919386,
+          52.383314,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Route Paars",
+        "description": "id: pRoute13<br>name: Route Paars<br>Name: <br>Latitude: 52.383314<br>Longitude: 4.919386",
+        "id": "pRoute13",
+        "Name": null,
+        "Latitude": 52.383314,
+        "Longitude": 4.919386
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.920738,
+          52.383452,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Route Paars - Kromhouthal",
+        "description": "id: pRoute14<br>name: Route Paars - Kromhouthal<br>Name: Kromhouthal <br>Latitude: 52.383452<br>Longitude: 4.920738",
+        "id": "pRoute14",
+        "Name": "Kromhouthal ",
+        "Latitude": 52.383452,
+        "Longitude": 4.920738
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.923264,
+          52.381186,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Route Paars - Door naar Oranje Route",
+        "description": "id: pRoute15<br>name: Route Paars - Door naar Oranje Route<br>Name: Door naar Oranje Route<br>Latitude: 52.381186<br>Longitude: 4.923264",
+        "id": "pRoute15",
+        "Name": "Door naar Oranje Route",
+        "Latitude": 52.381186,
+        "Longitude": 4.923264
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.923589,
+          52.380072,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Route Paars - Java-eiland",
+        "description": "id: pRoute16<br>name: Route Paars - Java-eiland<br>Name: Java-eiland<br>Latitude: 52.380072<br>Longitude: 4.923589",
+        "id": "pRoute16",
+        "Name": "Java-eiland",
+        "Latitude": 52.380072,
+        "Longitude": 4.923589
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.921221,
+          52.382096,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Paarse Noord naar Zuid",
+        "description": "id: pnzRoute1<br>name: Paarse Noord naar Zuid<br>Name: <br>Latitude: 52.382096<br>Longitude: 4.921221",
+        "id": "pnzRoute1",
+        "Name": null,
+        "Latitude": 52.382096,
+        "Longitude": 4.921221
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.920738,
+          52.383452,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Paarse Noord naar Zuid",
+        "description": "id: pnzRoute2<br>name: Paarse Noord naar Zuid<br>Name: <br>Latitude: 52.383452<br>Longitude: 4.920738",
+        "id": "pnzRoute2",
+        "Name": null,
+        "Latitude": 52.383452,
+        "Longitude": 4.920738
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.919386,
+          52.383314,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Paarse Noord naar Zuid",
+        "description": "id: pnzRoute3<br>name: Paarse Noord naar Zuid<br>Name: <br>Latitude: 52.383314<br>Longitude: 4.919386",
+        "id": "pnzRoute3",
+        "Name": null,
+        "Latitude": 52.383314,
+        "Longitude": 4.919386
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.919515,
+          52.382875,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Paarse Noord naar Zuid",
+        "description": "id: pnzRoute4<br>name: Paarse Noord naar Zuid<br>Name: <br>Latitude: 52.382875<br>Longitude: 4.919515",
+        "id": "pnzRoute4",
+        "Name": null,
+        "Latitude": 52.382875,
+        "Longitude": 4.919515
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.918925,
+          52.382751,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Paarse Noord naar Zuid",
+        "description": "id: pnzRoute5<br>name: Paarse Noord naar Zuid<br>Name: <br>Latitude: 52.382751<br>Longitude: 4.918925",
+        "id": "pnzRoute5",
+        "Name": null,
+        "Latitude": 52.382751,
+        "Longitude": 4.918925
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.919171,
+          52.381873,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Paarse Noord naar Zuid",
+        "description": "id: pnzRoute6<br>name: Paarse Noord naar Zuid<br>Name: <br>Latitude: 52.381873<br>Longitude: 4.919171",
+        "id": "pnzRoute6",
+        "Name": null,
+        "Latitude": 52.381873,
+        "Longitude": 4.919171
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.914622,
+          52.38133,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Paarse Noord naar Zuid - noordwal / smederij",
+        "description": "id: pnzRoute7<br>name: Paarse Noord naar Zuid - noordwal / smederij<br>Name: noordwal / smederij<br>Latitude: 52.381330<br>Longitude: 4.914622",
+        "id": "pnzRoute7",
+        "Name": "noordwal / smederij",
+        "Latitude": "52.381330",
+        "Longitude": 4.914622
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.913034,
+          52.381146,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Paarse Noord naar Zuid",
+        "description": "id: pnzRoute8<br>name: Paarse Noord naar Zuid<br>Name: <br>Latitude: 52.381146<br>Longitude: 4.913034",
+        "id": "pnzRoute8",
+        "Name": null,
+        "Latitude": 52.381146,
+        "Longitude": 4.913034
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.911221,
+          52.381232,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Paarse Noord naar Zuid",
+        "description": "id: pnzRoute9<br>name: Paarse Noord naar Zuid<br>Name: <br>Latitude: 52.381232<br>Longitude: 4.911221",
+        "id": "pnzRoute9",
+        "Name": null,
+        "Latitude": 52.381232,
+        "Longitude": 4.911221
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.911039,
+          52.381356,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Paarse Noord naar Zuid",
+        "description": "id: pnzRoute10<br>name: Paarse Noord naar Zuid<br>Name: <br>Latitude: 52.381356<br>Longitude: 4.911039",
+        "id": "pnzRoute10",
+        "Name": null,
+        "Latitude": 52.381356,
+        "Longitude": 4.911039
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.910964,
+          52.38163800000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Paarse Noord naar Zuid",
+        "description": "id: pnzRoute11<br>name: Paarse Noord naar Zuid<br>Name: <br>Latitude: 52.381638<br>Longitude: 4.910964",
+        "id": "pnzRoute11",
+        "Name": null,
+        "Latitude": 52.381638,
+        "Longitude": 4.910964
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90855,
+          52.38186,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Paarse Noord naar Zuid - Ijplein pont",
+        "description": "id: pnzRoute12<br>name: Paarse Noord naar Zuid - Ijplein pont<br>Name: Ijplein pont<br>Latitude: 52.381860<br>Longitude: 4.908550",
+        "id": "pnzRoute12",
+        "Name": "Ijplein pont",
+        "Latitude": "52.381860",
+        "Longitude": "4.908550"
+      }
+    }
+  ]
+}
