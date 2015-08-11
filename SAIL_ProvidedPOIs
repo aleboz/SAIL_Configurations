@@ -1,0 +1,2675 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.932822000000001,
+          52.377174,
+          0
+        ]
+      },
+      "properties": {
+        "name": "ING Zeeheldeneiland",
+        "styleUrl": "#icon-503-009D57",
+        "styleHash": "12c5bfd8",
+        "description": "id: poiAP4<br>name: ING Zeeheldeneiland<br>Latitude: 52.377174<br>Longitude: 4.932822<br>Categorie: Activiteit/Programma",
+        "id": "poiAP4",
+        "Latitude": 52.377174,
+        "Longitude": 4.932822,
+        "Categorie": "Activiteit/Programma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.934936,
+          52.37644000000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Delta Lloyd Optimist on Tour",
+        "styleUrl": "#icon-503-009D57",
+        "styleHash": "12c5bfd8",
+        "description": "id: poiAP5<br>name: Delta Lloyd Optimist on Tour<br>Latitude: 52.376440<br>Longitude: 4.934936<br>Categorie: Activiteit/Programma",
+        "id": "poiAP5",
+        "Latitude": "52.376440",
+        "Longitude": 4.934936,
+        "Categorie": "Activiteit/Programma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.93432,
+          52.376763,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Spelevaren",
+        "styleUrl": "#icon-503-009D57",
+        "styleHash": "12c5bfd8",
+        "description": "id: poiAP6<br>name: Spelevaren<br>Latitude: 52.376763<br>Longitude: 4.934320<br>Categorie: Activiteit/Programma",
+        "id": "poiAP6",
+        "Latitude": 52.376763,
+        "Longitude": "4.934320",
+        "Categorie": "Activiteit/Programma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.937368,
+          52.3776,
+          0
+        ]
+      },
+      "properties": {
+        "name": "De Telegraaf Viewpoint",
+        "styleUrl": "#icon-503-009D57",
+        "styleHash": "12c5bfd8",
+        "description": "id: poiAP7<br>name: De Telegraaf Viewpoint<br>Latitude: 52.377600<br>Longitude: 4.937368<br>Categorie: Activiteit/Programma",
+        "id": "poiAP7",
+        "Latitude": "52.377600",
+        "Longitude": 4.937368,
+        "Categorie": "Activiteit/Programma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.943191,
+          52.375335,
+          0
+        ]
+      },
+      "properties": {
+        "name": "SAILsation",
+        "styleUrl": "#icon-503-009D57",
+        "styleHash": "12c5bfd8",
+        "description": "id: poiAP8<br>name: SAILsation<br>Latitude: 52.375335<br>Longitude: 4.943191<br>Categorie: Activiteit/Programma",
+        "id": "poiAP8",
+        "Latitude": 52.375335,
+        "Longitude": 4.943191,
+        "Categorie": "Activiteit/Programma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.921607,
+          52.379259000000005,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Staatsloterij",
+        "styleUrl": "#icon-503-009D57",
+        "styleHash": "12c5bfd8",
+        "description": "id: poiAP9<br>name: Staatsloterij<br>Latitude: 52.379259<br>Longitude: 4.921607<br>Categorie: Activiteit/Programma",
+        "id": "poiAP9",
+        "Latitude": 52.379259,
+        "Longitude": 4.921607,
+        "Categorie": "Activiteit/Programma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.908976,
+          52.378161,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Opstap rondvaartboten",
+        "styleUrl": "#icon-503-7CCFA9",
+        "styleHash": 42131318,
+        "description": "id: poiNau1<br>name: Opstap rondvaartboten<br>Latitude: 52.378161<br>Longitude: 4.908976<br>Categorie: Nautisch",
+        "id": "poiNau1",
+        "Latitude": 52.378161,
+        "Longitude": 4.908976,
+        "Categorie": "Nautisch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.914602,
+          52.371592,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tentoonstelling Leven aan Boord",
+        "styleUrl": "#icon-503-009D57",
+        "styleHash": "12c5bfd8",
+        "description": "id: poiAP10<br>name: Tentoonstelling Leven aan Boord<br>Latitude: 52.371592<br>Longitude: 4.914602<br>Categorie: Activiteit/Programma",
+        "id": "poiAP10",
+        "Latitude": 52.371592,
+        "Longitude": 4.914602,
+        "Categorie": "Activiteit/Programma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8931029,
+          52.385049,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Vertrekpunt pont",
+        "styleUrl": "#icon-503-0BA9CC",
+        "styleHash": "2656bf8",
+        "description": "id: poiVerPon1<br>name: Vertrekpunt pont<br>Latitude: 52.385049<br>Longitude: 4.8931029<br>Categorie: Vervoer/pont",
+        "id": "poiVerPon1",
+        "Latitude": 52.385049,
+        "Longitude": 4.8931029,
+        "Categorie": "Vervoer/pont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90645,
+          52.378442,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Vertrekpunt pont",
+        "styleUrl": "#icon-503-0BA9CC",
+        "styleHash": "2656bf8",
+        "description": "id: poiVerPon2<br>name: Vertrekpunt pont<br>Latitude: 52.378442<br>Longitude: 4.906450<br>Categorie: Vervoer/pont",
+        "id": "poiVerPon2",
+        "Latitude": 52.378442,
+        "Longitude": "4.906450",
+        "Categorie": "Vervoer/pont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.899362,
+          52.380662,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Vertrekpunt pont",
+        "styleUrl": "#icon-503-0BA9CC",
+        "styleHash": "2656bf8",
+        "description": "id: poiVerPon3<br>name: Vertrekpunt pont<br>Latitude: 52.380662<br>Longitude: 4.899362<br>Categorie: Vervoer/pont",
+        "id": "poiVerPon3",
+        "Latitude": 52.380662,
+        "Longitude": 4.899362,
+        "Categorie": "Vervoer/pont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.891235,
+          52.401214,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Vertrekpunt pont",
+        "styleUrl": "#icon-503-0BA9CC",
+        "styleHash": "2656bf8",
+        "description": "id: poiVerPon4<br>name: Vertrekpunt pont<br>Latitude: 52.401214<br>Longitude: 4.891235<br>Categorie: Vervoer/pont",
+        "id": "poiVerPon4",
+        "Latitude": 52.401214,
+        "Longitude": 4.891235,
+        "Categorie": "Vervoer/pont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.899261,
+          52.380822,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Vertrekpunt pont",
+        "styleUrl": "#icon-503-0BA9CC",
+        "styleHash": "2656bf8",
+        "description": "id: poiVerPon5<br>name: Vertrekpunt pont<br>Latitude: 52.380822<br>Longitude:  4.899261<br>Categorie: Vervoer/pont",
+        "id": "poiVerPon5",
+        "Latitude": 52.380822,
+        "Longitude": " 4.899261",
+        "Categorie": "Vervoer/pont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89922,
+          52.380748,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Vertrekpunt pont",
+        "styleUrl": "#icon-503-0BA9CC",
+        "styleHash": "2656bf8",
+        "description": "id: poiVerPon6<br>name: Vertrekpunt pont<br>Latitude: 52.380748<br>Longitude: 4.899220<br>Categorie: Vervoer/pont",
+        "id": "poiVerPon6",
+        "Latitude": 52.380748,
+        "Longitude": "4.899220",
+        "Categorie": "Vervoer/pont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.910505,
+          52.381961,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ijplein podium",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "description": "id: poiPodium<br>name: Ijplein podium<br>Latitude: 52.381961<br>Longitude: 4.910505<br>Categorie: Podium",
+        "id": "poiPodium",
+        "Latitude": 52.381961,
+        "Longitude": 4.910505,
+        "Categorie": "Podium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.912664,
+          52.382122,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ijplein markt",
+        "styleUrl": "#icon-503-009D57",
+        "styleHash": "12c5bfd8",
+        "description": "id: poiAP11<br>name: Ijplein markt<br>Latitude: 52.382122<br>Longitude: 4.912664<br>Categorie: Activiteit/Programma",
+        "id": "poiAP11",
+        "Latitude": 52.382122,
+        "Longitude": 4.912664,
+        "Categorie": "Activiteit/Programma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.944408,
+          52.380636,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Vuurwerkshow",
+        "styleUrl": "#icon-503-009D57",
+        "styleHash": "12c5bfd8",
+        "description": "id: poiAP12<br>name: Vuurwerkshow<br>Latitude: 52.380636<br>Longitude: 4.944408<br>Categorie: Activiteit/Programma",
+        "id": "poiAP12",
+        "Latitude": 52.380636,
+        "Longitude": 4.944408,
+        "Categorie": "Activiteit/Programma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.900505,
+          52.37916,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Centraal Station",
+        "styleUrl": "#icon-503-C6A4CF",
+        "styleHash": "4e63f658",
+        "description": "id: poiVercCS<br>name: Centraal Station<br>Latitude: 52.379160<br>Longitude: 4.900505<br>Categorie: Centraal Station",
+        "id": "poiVercCS",
+        "Latitude": "52.379160",
+        "Longitude": 4.900505,
+        "Categorie": "Centraal Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.894102,
+          52.399903,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Groene Oceaan, powered by Maritime by Holland",
+        "styleUrl": "#icon-503-009D57",
+        "styleHash": "12c5bfd8",
+        "description": "id: poiAP13<br>name: Groene Oceaan, powered by Maritime by Holland<br>Latitude: 52.399903<br>Longitude: 4.894102<br>Categorie: Activiteit/Programma",
+        "id": "poiAP13",
+        "Latitude": 52.399903,
+        "Longitude": 4.894102,
+        "Categorie": "Activiteit/Programma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.935621,
+          52.37295,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pendelbussen",
+        "styleUrl": "#icon-503-EE9C96",
+        "styleHash": "abc3a98",
+        "description": "id: poiVerBus<br>name: Pendelbussen<br>Latitude: 52.372950<br>Longitude: 4.935621<br>Categorie: Vervoer/pendelbus",
+        "id": "poiVerBus",
+        "Latitude": "52.372950",
+        "Longitude": 4.935621,
+        "Categorie": "Vervoer/pendelbus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.930176,
+          52.383288,
+          0
+        ]
+      },
+      "properties": {
+        "name": "SAIL Music Marina",
+        "styleUrl": "#icon-503-E6EEA3",
+        "styleHash": "-55cebde8",
+        "description": "id: poiAP2<br>name: SAIL Music Marina<br>Latitude: 52.383288<br>Longitude: 4.930176<br>Categorie: Acitiviteit/Programma",
+        "id": "poiAP2",
+        "Latitude": 52.383288,
+        "Longitude": 4.930176,
+        "Categorie": "Acitiviteit/Programma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.935664,
+          52.376998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Podium Bogortuin",
+        "styleUrl": "#icon-503-009D57",
+        "styleHash": "12c5bfd8",
+        "description": "id: poiAP14<br>name: Podium Bogortuin<br>Latitude: 52.376998<br>Longitude: 4.935664<br>Categorie: Activiteit/Programma",
+        "id": "poiAP14",
+        "Latitude": 52.376998,
+        "Longitude": 4.935664,
+        "Categorie": "Activiteit/Programma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.919025,
+          52.379585,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Podium Java",
+        "styleUrl": "#icon-503-009D57",
+        "styleHash": "12c5bfd8",
+        "description": "id: poiAP15<br>name: Podium Java<br>Latitude: 52.379585<br>Longitude: 4.919025<br>Categorie: Activiteit/Programma",
+        "id": "poiAP15",
+        "Latitude": 52.379585,
+        "Longitude": 4.919025,
+        "Categorie": "Activiteit/Programma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91982,
+          52.379826,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mindervaliden dek",
+        "styleUrl": "#icon-503-CDDC39",
+        "styleHash": "6f18f5f8",
+        "description": "id: poiMindervaliden<br>name: Mindervaliden dek<br>Latitude: 52.379826<br>Longitude: 4.919820<br>Categorie: Mindervaliden dek",
+        "id": "poiMindervaliden",
+        "Latitude": 52.379826,
+        "Longitude": "4.919820",
+        "Categorie": "Mindervaliden dek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.856988000000001,
+          52.40646400000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toiletten Coenhaven/Westerhoofd",
+        "styleUrl": "#icon-503-F8971B",
+        "styleHash": "-64db7e28",
+        "description": "id: poiToi1<br>name: Toiletten Coenhaven/Westerhoofd<br>Latitude: 52.406464<br>Longitude: 4.856988<br>Categorie: Toiletten",
+        "id": "poiToi1",
+        "Latitude": 52.406464,
+        "Longitude": 4.856988,
+        "Categorie": "Toiletten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.768432,
+          52.415198,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toiletten Americahaven/Cacaohaven",
+        "styleUrl": "#icon-503-F8971B",
+        "styleHash": "-64db7e28",
+        "description": "id: poiToi2<br>name: Toiletten Americahaven/Cacaohaven<br>Latitude: 52.415198<br>Longitude: 4.768432<br>Categorie: Toiletten",
+        "id": "poiToi2",
+        "Latitude": 52.415198,
+        "Longitude": 4.768432,
+        "Categorie": "Toiletten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.810635,
+          52.40765,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toiletten Westelijk Havengebied",
+        "styleUrl": "#icon-503-F8971B",
+        "styleHash": "-64db7e28",
+        "description": "id: poiToi3<br>name: Toiletten Westelijk Havengebied<br>Latitude: 52.407650<br>Longitude: 4.810635<br>Categorie: Toiletten",
+        "id": "poiToi3",
+        "Latitude": "52.407650",
+        "Longitude": 4.810635,
+        "Categorie": "Toiletten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.906707,
+          52.378229,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toiletten - De Ruyterkade - Oost",
+        "styleUrl": "#icon-503-F8971B",
+        "styleHash": "-64db7e28",
+        "description": "id: poiToi4<br>name: Toiletten - De Ruyterkade - Oost<br>Latitude: 52.378229<br>Longitude: 4.906707<br>Categorie: Toiletten",
+        "id": "poiToi4",
+        "Latitude": 52.378229,
+        "Longitude": 4.906707,
+        "Categorie": "Toiletten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.916994,
+          52.377005000000004,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toilletten - Piet Heinkade",
+        "styleUrl": "#icon-503-F8971B",
+        "styleHash": "-64db7e28",
+        "description": "id: poiToi5<br>name: Toilletten - Piet Heinkade<br>Latitude: 52.377005<br>Longitude: 4.916994<br>Categorie: Toiletten",
+        "id": "poiToi5",
+        "Latitude": 52.377005,
+        "Longitude": 4.916994,
+        "Categorie": "Toiletten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.909846,
+          52.382364,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toiletten - IJplein",
+        "styleUrl": "#icon-503-F8971B",
+        "styleHash": "-64db7e28",
+        "description": "id: poiToi6<br>name: Toiletten - IJplein<br>Latitude: 52.382364<br>Longitude: 4.909846<br>Categorie: Toiletten",
+        "id": "poiToi6",
+        "Latitude": 52.382364,
+        "Longitude": 4.909846,
+        "Categorie": "Toiletten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.934958,
+          52.374495,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toiletten - Lloydplein",
+        "styleUrl": "#icon-503-F8971B",
+        "styleHash": "-64db7e28",
+        "description": "id: poiToi7<br>name: Toiletten - Lloydplein<br>Latitude: 52.374495<br>Longitude: 4.934958<br>Categorie: Toiletten",
+        "id": "poiToi7",
+        "Latitude": 52.374495,
+        "Longitude": 4.934958,
+        "Categorie": "Toiletten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.936091,
+          52.377319,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toiletten - Bogortuin",
+        "styleUrl": "#icon-503-F8971B",
+        "styleHash": "-64db7e28",
+        "description": "id: poiToi8<br>name: Toiletten - Bogortuin<br>Latitude: 52.377319<br>Longitude: 4.936091<br>Categorie: Toiletten",
+        "id": "poiToi8",
+        "Latitude": 52.377319,
+        "Longitude": 4.936091,
+        "Categorie": "Toiletten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.921704,
+          52.379891,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toiletten - Kop van JAVA",
+        "styleUrl": "#icon-503-F8971B",
+        "styleHash": "-64db7e28",
+        "description": "id: poiToi9<br>name: Toiletten - Kop van JAVA<br>Latitude: 52.379891<br>Longitude: 4.921704<br>Categorie: Toiletten",
+        "id": "poiToi9",
+        "Latitude": 52.379891,
+        "Longitude": 4.921704,
+        "Categorie": "Toiletten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.920931,
+          52.383321,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toiletten - De Overkant",
+        "styleUrl": "#icon-503-F8971B",
+        "styleHash": "-64db7e28",
+        "description": "id: poiToi10<br>name: Toiletten - De Overkant<br>Latitude: 52.383321<br>Longitude: 4.920931<br>Categorie: Toiletten",
+        "id": "poiToi10",
+        "Latitude": 52.383321,
+        "Longitude": 4.920931,
+        "Categorie": "Toiletten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.92964,
+          52.384919,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toiletten - Music Marina",
+        "styleUrl": "#icon-503-F8971B",
+        "styleHash": "-64db7e28",
+        "description": "id: poiToi11<br>name: Toiletten - Music Marina<br>Latitude: 52.384919<br>Longitude: 4.929640<br>Categorie: Toiletten",
+        "id": "poiToi11",
+        "Latitude": 52.384919,
+        "Longitude": "4.929640",
+        "Categorie": "Toiletten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.914153,
+          52.376526,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toiletten - Dijksgracht",
+        "styleUrl": "#icon-503-F8971B",
+        "styleHash": "-64db7e28",
+        "description": "id: poiToi12<br>name: Toiletten - Dijksgracht<br>Latitude: 52.376526<br>Longitude: 4.914153<br>Categorie: Toiletten",
+        "id": "poiToi12",
+        "Latitude": 52.376526,
+        "Longitude": 4.914153,
+        "Categorie": "Toiletten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.912155,
+          52.372112,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toiletten - Oosterdok",
+        "styleUrl": "#icon-503-F8971B",
+        "styleHash": "-64db7e28",
+        "description": "id: poiToi13<br>name: Toiletten - Oosterdok<br>Latitude: 52.372112<br>Longitude: 4.912155<br>Categorie: Toiletten",
+        "id": "poiToi13",
+        "Latitude": 52.372112,
+        "Longitude": 4.912155,
+        "Categorie": "Toiletten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892457,
+          52.373546,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toiletten - Damterrein",
+        "styleUrl": "#icon-503-F8971B",
+        "styleHash": "-64db7e28",
+        "description": "id: poiToi14<br>name: Toiletten - Damterrein<br>Latitude: 52.373546<br>Longitude: 4.892457<br>Categorie: Toiletten",
+        "id": "poiToi14",
+        "Latitude": 52.373546,
+        "Longitude": 4.892457,
+        "Categorie": "Toiletten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.901426,
+          52.384623,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toiletten - EYE",
+        "styleUrl": "#icon-503-F8971B",
+        "styleHash": "-64db7e28",
+        "description": "id: poiToi15<br>name: Toiletten - EYE<br>Latitude: 52.384623<br>Longitude: 4.901426<br>Categorie: Toiletten",
+        "id": "poiToi15",
+        "Latitude": 52.384623,
+        "Longitude": 4.901426,
+        "Categorie": "Toiletten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.899656,
+          52.398129,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toiletten - Undercurrent",
+        "styleUrl": "#icon-503-F8971B",
+        "styleHash": "-64db7e28",
+        "description": "id: poiToi16<br>name: Toiletten - Undercurrent<br>Latitude: 52.398129<br>Longitude: 4.899656<br>Categorie: Toiletten",
+        "id": "poiToi16",
+        "Latitude": 52.398129,
+        "Longitude": 4.899656,
+        "Categorie": "Toiletten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.888058,
+          52.406734,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toiletten - Bijzondere vaarten",
+        "styleUrl": "#icon-503-F8971B",
+        "styleHash": "-64db7e28",
+        "description": "id: poiToi17<br>name: Toiletten - Bijzondere vaarten<br>Latitude: 52.406734<br>Longitude: 4.888058<br>Categorie: Toiletten",
+        "id": "poiToi17",
+        "Latitude": 52.406734,
+        "Longitude": 4.888058,
+        "Categorie": "Toiletten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.895075,
+          52.401951,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toiletten - CouCousclub",
+        "styleUrl": "#icon-503-F8971B",
+        "styleHash": "-64db7e28",
+        "description": "id: poiToi18<br>name: Toiletten - CouCousclub<br>Latitude: 52.401951<br>Longitude: 4.895075<br>Categorie: Toiletten",
+        "id": "poiToi18",
+        "Latitude": 52.401951,
+        "Longitude": 4.895075,
+        "Categorie": "Toiletten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.896265,
+          52.39948600000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toiletten - Trammeland",
+        "styleUrl": "#icon-503-F8971B",
+        "styleHash": "-64db7e28",
+        "description": "id: poiToi19<br>name: Toiletten - Trammeland<br>Latitude: 52.399486<br>Longitude: 4.896265<br>Categorie: Toiletten",
+        "id": "poiToi19",
+        "Latitude": 52.399486,
+        "Longitude": 4.896265,
+        "Categorie": "Toiletten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.896528,
+          52.399629,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toiletten - Bombascha",
+        "styleUrl": "#icon-503-F8971B",
+        "styleHash": "-64db7e28",
+        "description": "id: poiToi20<br>name: Toiletten - Bombascha<br>Latitude: 52.399629<br>Longitude: 4.896528<br>Categorie: Toiletten",
+        "id": "poiToi20",
+        "Latitude": 52.399629,
+        "Longitude": 4.896528,
+        "Categorie": "Toiletten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.856988000000001,
+          52.40646400000001,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "EHBO Sail Village - Coenhaven",
+        "styleUrl": "#icon-503-93D7E8",
+        "styleHash": "-71daa3c8",
+        "description": "id: poiEHBO1<br>name: EHBO Sail Village - Coenhaven<br>Latitude: 52.406464<br>Longitude: 4.856988<br>Categorie: EHBO",
+        "id": "poiEHBO1",
+        "Latitude": 52.406464,
+        "Longitude": 4.856988,
+        "Categorie": "EHBO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.768432,
+          52.40646400000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "EHBO Cacaohaven",
+        "styleUrl": "#icon-503-93D7E8",
+        "styleHash": "-71daa3c8",
+        "description": "id: poiEHBO2<br>name: EHBO Cacaohaven<br>Latitude: 52.406464<br>Longitude: 4.768432<br>Categorie: EHBO",
+        "id": "poiEHBO2",
+        "Latitude": 52.406464,
+        "Longitude": 4.768432,
+        "Categorie": "EHBO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.916994,
+          52.377005000000004,
+          0
+        ]
+      },
+      "properties": {
+        "name": "EHBO Piet Hein Kade",
+        "styleUrl": "#icon-503-93D7E8",
+        "styleHash": "-71daa3c8",
+        "description": "id: poiEHBO3<br>name: EHBO Piet Hein Kade<br>Latitude: 52.377005<br>Longitude: 4.916994<br>Categorie: EHBO",
+        "id": "poiEHBO3",
+        "Latitude": 52.377005,
+        "Longitude": 4.916994,
+        "Categorie": "EHBO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.933791000000001,
+          52.37483700000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "EHBO Veemkade",
+        "styleUrl": "#icon-503-93D7E8",
+        "styleHash": "-71daa3c8",
+        "description": "id: poiEHBO4<br>name: EHBO Veemkade<br>Latitude: 52.374837<br>Longitude: 4.933791<br>Categorie: EHBO",
+        "id": "poiEHBO4",
+        "Latitude": 52.374837,
+        "Longitude": 4.933791,
+        "Categorie": "EHBO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.936252,
+          52.37732,
+          0
+        ]
+      },
+      "properties": {
+        "name": "EHBO Bogortuin",
+        "styleUrl": "#icon-503-93D7E8",
+        "styleHash": "-71daa3c8",
+        "description": "id: poiEHBO5<br>name: EHBO Bogortuin<br>Latitude: 52.377320<br>Longitude: 4.936252<br>Categorie: EHBO",
+        "id": "poiEHBO5",
+        "Latitude": "52.377320",
+        "Longitude": 4.936252,
+        "Categorie": "EHBO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.922884,
+          52.380032,
+          0
+        ]
+      },
+      "properties": {
+        "name": "EHBO Kop van Java",
+        "styleUrl": "#icon-503-93D7E8",
+        "styleHash": "-71daa3c8",
+        "description": "id: poiEHBO6<br>name: EHBO Kop van Java<br>Latitude: 52.380032<br>Longitude: 4.922884<br>Categorie: EHBO",
+        "id": "poiEHBO6",
+        "Latitude": 52.380032,
+        "Longitude": 4.922884,
+        "Categorie": "EHBO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.911683,
+          52.38254,
+          0
+        ]
+      },
+      "properties": {
+        "name": "EHBO Ijplein",
+        "styleUrl": "#icon-503-93D7E8",
+        "styleHash": "-71daa3c8",
+        "description": "id: poiEHBO7<br>name: EHBO Ijplein<br>Latitude: 52.382540<br>Longitude: 4.911683<br>Categorie: EHBO",
+        "id": "poiEHBO7",
+        "Latitude": "52.382540",
+        "Longitude": 4.911683,
+        "Categorie": "EHBO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90149,
+          52.38481,
+          0
+        ]
+      },
+      "properties": {
+        "name": "EHBO Eye",
+        "styleUrl": "#icon-503-93D7E8",
+        "styleHash": "-71daa3c8",
+        "description": "id: poiEHBO8<br>name: EHBO Eye<br>Latitude: 52.384810<br>Longitude: 4.901490<br>Categorie: EHBO",
+        "id": "poiEHBO8",
+        "Latitude": "52.384810",
+        "Longitude": "4.901490",
+        "Categorie": "EHBO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.942387,
+          52.380062,
+          0
+        ]
+      },
+      "properties": {
+        "name": "SAIL Experience",
+        "styleUrl": "#icon-503-E6EEA3",
+        "styleHash": "-55cebde8",
+        "description": "id: poiAP1<br>name: SAIL Experience<br>Latitude: 52.380062<br>Longitude: 4.942387<br>Categorie: Acitiviteit/Programma",
+        "id": "poiAP1",
+        "Latitude": 52.380062,
+        "Longitude": 4.942387,
+        "Categorie": "Acitiviteit/Programma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.934943,
+          52.375101,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Varend Erfgoed IJhaven",
+        "styleUrl": "#icon-503-7CCFA9",
+        "styleHash": 42131318,
+        "description": "id: poiNau2<br>name: Varend Erfgoed IJhaven<br>Latitude: 52.375101<br>Longitude: 4.934943<br>Categorie: Nautisch",
+        "id": "poiNau2",
+        "Latitude": 52.375101,
+        "Longitude": 4.934943,
+        "Categorie": "Nautisch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.948767,
+          52.369494,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Varend Erfgoed Entrepohaven",
+        "styleUrl": "#icon-503-7CCFA9",
+        "styleHash": 42131318,
+        "description": "id: poiNau3<br>name: Varend Erfgoed Entrepohaven<br>Latitude: 52.369494<br>Longitude: 4.948767<br>Categorie: Nautisch",
+        "id": "poiNau3",
+        "Latitude": 52.369494,
+        "Longitude": 4.948767,
+        "Categorie": "Nautisch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.911436000000001,
+          52.37273,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Varend Erfgoed Oosterdok",
+        "styleUrl": "#icon-503-7CCFA9",
+        "styleHash": 42131318,
+        "description": "id: poiNau4<br>name: Varend Erfgoed Oosterdok<br>Latitude: 52.372730<br>Longitude: 4.911436<br>Categorie: Nautisch",
+        "id": "poiNau4",
+        "Latitude": "52.372730",
+        "Longitude": 4.911436,
+        "Categorie": "Nautisch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.934911,
+          52.378088000000005,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Varend Erfgoed Botters",
+        "styleUrl": "#icon-503-7CCFA9",
+        "styleHash": 42131318,
+        "description": "id: poiNau5<br>name: Varend Erfgoed Botters<br>Latitude: 52.378088<br>Longitude: 4.934911<br>Categorie: Nautisch",
+        "id": "poiNau5",
+        "Latitude": 52.378088,
+        "Longitude": 4.934911,
+        "Categorie": "Nautisch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.942667,
+          52.377643,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Varend Erfgoed skutsjes",
+        "styleUrl": "#icon-503-7CCFA9",
+        "styleHash": 42131318,
+        "description": "id: poiNau6<br>name: Varend Erfgoed skutsjes<br>Latitude: 52.377643<br>Longitude: 4.942667<br>Categorie: Nautisch",
+        "id": "poiNau6",
+        "Latitude": 52.377643,
+        "Longitude": 4.942667,
+        "Categorie": "Nautisch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.946916,
+          52.377878,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Varend Erfgoed Historische Binnenvaartschepen",
+        "styleUrl": "#icon-503-7CCFA9",
+        "styleHash": 42131318,
+        "description": "id: poiNau7<br>name: Varend Erfgoed Historische Binnenvaartschepen<br>Latitude: 52.377878<br>Longitude: 4.946916<br>Categorie: Nautisch",
+        "id": "poiNau7",
+        "Latitude": 52.377878,
+        "Longitude": 4.946916,
+        "Categorie": "Nautisch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.901759,
+          52.383542,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Witte Oceaan",
+        "styleUrl": "#icon-503-009D57",
+        "styleHash": "12c5bfd8",
+        "description": "id: poiAP16<br>name: Witte Oceaan<br>Latitude: 52.383542<br>Longitude: 4.901759<br>Categorie: Activiteit/Programma",
+        "id": "poiAP16",
+        "Latitude": 52.383542,
+        "Longitude": 4.901759,
+        "Categorie": "Activiteit/Programma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.897875,
+          52.397787,
+          0
+        ]
+      },
+      "properties": {
+        "name": "SAILatUndercurrent",
+        "styleUrl": "#icon-503-009D57",
+        "styleHash": "12c5bfd8",
+        "description": "id: poiAP17<br>name: SAILatUndercurrent<br>Latitude: 52.397787<br>Longitude: 4.897875<br>Categorie: Activiteit/Programma",
+        "id": "poiAP17",
+        "Latitude": 52.397787,
+        "Longitude": 4.897875,
+        "Categorie": "Activiteit/Programma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.931001,
+          52.385007,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Vertrekpunt pont Oostveer Noord",
+        "styleUrl": "#icon-503-0BA9CC",
+        "styleHash": "2656bf8",
+        "description": "id: poiVerPon7<br>name: Vertrekpunt pont Oostveer Noord<br>Latitude: 52.385007<br>Longitude: 4.931001<br>Categorie: Vervoer/pont",
+        "id": "poiVerPon7",
+        "Latitude": 52.385007,
+        "Longitude": 4.931001,
+        "Categorie": "Vervoer/pont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.937523,
+          52.377756,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Vertrekpnt pont Oostveer Zuid",
+        "styleUrl": "#icon-503-0BA9CC",
+        "styleHash": "2656bf8",
+        "description": "id: poiVerPon8<br>name: Vertrekpnt pont Oostveer Zuid<br>Latitude: 52.377756<br>Longitude: 4.937523<br>Categorie: Vervoer/pont",
+        "id": "poiVerPon8",
+        "Latitude": 52.377756,
+        "Longitude": 4.937523,
+        "Categorie": "Vervoer/pont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.899771,
+          52.379768,
+          0
+        ]
+      },
+      "properties": {
+        "name": "I amsterdam brandstore (Kop Java?)",
+        "styleUrl": "#icon-503-F9F7A6",
+        "styleHash": "-3a6fc4a8",
+        "description": "id: poiWin1<br>name: I amsterdam brandstore (Kop Java?)<br>Latitude: 52.379768<br>Longitude: 4.899771<br>Categorie: SAIL-winkel",
+        "id": "poiWin1",
+        "Latitude": 52.379768,
+        "Longitude": 4.899771,
+        "Categorie": "SAIL-winkel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.899208000000001,
+          52.37852000000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Infopunt 1",
+        "styleUrl": "#icon-503-FFDD5E",
+        "styleHash": "542a2b8",
+        "description": "id: poiInfo1<br>name: Infopunt 1<br>Latitude: 52.378520<br>Longitude: 4.899208<br>Categorie: SAIL-infopunt",
+        "id": "poiInfo1",
+        "Latitude": "52.378520",
+        "Longitude": 4.899208,
+        "Categorie": "SAIL-infopunt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9014880000000005,
+          52.379742,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Infopunt 2",
+        "styleUrl": "#icon-503-FFDD5E",
+        "styleHash": "542a2b8",
+        "description": "id: poiInfo2<br>name: Infopunt 2<br>Latitude: 52.379742<br>Longitude: 4.901488<br>Categorie: SAIL-infopunt",
+        "id": "poiInfo2",
+        "Latitude": 52.379742,
+        "Longitude": 4.901488,
+        "Categorie": "SAIL-infopunt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.906702,
+          52.378222,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Infopunt 3",
+        "styleUrl": "#icon-503-FFDD5E",
+        "styleHash": "542a2b8",
+        "description": "id: poiInfo3<br>name: Infopunt 3<br>Latitude: 52.378222<br>Longitude: 4.906702<br>Categorie: SAIL-infopunt",
+        "id": "poiInfo3",
+        "Latitude": 52.378222,
+        "Longitude": 4.906702,
+        "Categorie": "SAIL-infopunt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.909959,
+          52.375354,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Infopunt 4",
+        "styleUrl": "#icon-503-FFDD5E",
+        "styleHash": "542a2b8",
+        "description": "id: poiInfo4<br>name: Infopunt 4<br>Latitude: 52.375354<br>Longitude: 4.909959<br>Categorie: SAIL-infopunt",
+        "id": "poiInfo4",
+        "Latitude": 52.375354,
+        "Longitude": 4.909959,
+        "Categorie": "SAIL-infopunt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.928648,
+          52.375845,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Infopunt 5 met Lighthouse",
+        "styleUrl": "#icon-503-FFDD5E",
+        "styleHash": "542a2b8",
+        "description": "id: poiInfo5<br>name: Infopunt 5 met Lighthouse<br>Latitude: 52.375845<br>Longitude: 4.928648<br>Categorie: SAIL-infopunt",
+        "id": "poiInfo5",
+        "Latitude": 52.375845,
+        "Longitude": 4.928648,
+        "Categorie": "SAIL-infopunt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.940288,
+          52.374106,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Infopunt 6 / onbemand",
+        "styleUrl": "#icon-503-FFDD5E",
+        "styleHash": "542a2b8",
+        "description": "id: poiInfo6<br>name: Infopunt 6 / onbemand<br>Latitude: 52.374106<br>Longitude: 4.940288<br>Categorie: SAIL-infopunt",
+        "id": "poiInfo6",
+        "Latitude": 52.374106,
+        "Longitude": 4.940288,
+        "Categorie": "SAIL-infopunt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.937149000000001,
+          52.376762,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Infopunt 7 met Lighthouse",
+        "styleUrl": "#icon-503-FFDD5E",
+        "styleHash": "542a2b8",
+        "description": "id: poiInfo7<br>name: Infopunt 7 met Lighthouse<br>Latitude: 52.376762<br>Longitude: 4.937149<br>Categorie: SAIL-infopunt",
+        "id": "poiInfo7",
+        "Latitude": 52.376762,
+        "Longitude": 4.937149,
+        "Categorie": "SAIL-infopunt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.92099,
+          52.379431000000004,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Infopunt 8",
+        "styleUrl": "#icon-503-FFDD5E",
+        "styleHash": "542a2b8",
+        "description": "id: poiInfo8<br>name: Infopunt 8<br>Latitude: 52.379431<br>Longitude: 4.920990<br>Categorie: SAIL-infopunt",
+        "id": "poiInfo8",
+        "Latitude": 52.379431,
+        "Longitude": "4.920990",
+        "Categorie": "SAIL-infopunt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.909159,
+          52.382155,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Infopunt 10 met Lighthouse",
+        "styleUrl": "#icon-503-FFDD5E",
+        "styleHash": "542a2b8",
+        "description": "id: poiInfo10<br>name: Infopunt 10 met Lighthouse<br>Latitude: 52.382155<br>Longitude: 4.909159<br>Categorie: SAIL-infopunt",
+        "id": "poiInfo10",
+        "Latitude": 52.382155,
+        "Longitude": 4.909159,
+        "Categorie": "SAIL-infopunt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.921719,
+          52.379509,
+          0
+        ]
+      },
+      "properties": {
+        "name": "SAIL-winkel",
+        "styleUrl": "#icon-503-F9F7A6",
+        "styleHash": "-3a6fc4a8",
+        "description": "id: poiWin2<br>name: SAIL-winkel<br>Latitude: 52.379509<br>Longitude: 4.921719<br>Categorie: SAIL-winkel",
+        "id": "poiWin2",
+        "Latitude": 52.379509,
+        "Longitude": 4.921719,
+        "Categorie": "SAIL-winkel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.916535,
+          52.377987,
+          0
+        ]
+      },
+      "properties": {
+        "name": "SAIL-winkel",
+        "styleUrl": "#icon-503-F9F7A6",
+        "styleHash": "-3a6fc4a8",
+        "description": "id: poiWin3<br>name: SAIL-winkel<br>Latitude: 52.377987<br>Longitude: 4.916535<br>Categorie: SAIL-winkel",
+        "id": "poiWin3",
+        "Latitude": 52.377987,
+        "Longitude": 4.916535,
+        "Categorie": "SAIL-winkel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.911109,
+          52.381513,
+          0
+        ]
+      },
+      "properties": {
+        "name": "SAIL-winkel",
+        "styleUrl": "#icon-503-F9F7A6",
+        "styleHash": "-3a6fc4a8",
+        "description": "id: poiWin4<br>name: SAIL-winkel<br>Latitude: 52.381513<br>Longitude: 4.911109<br>Categorie: SAIL-winkel",
+        "id": "poiWin4",
+        "Latitude": 52.381513,
+        "Longitude": 4.911109,
+        "Categorie": "SAIL-winkel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.934131,
+          52.374097,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tramhalte Rietlandpark/tram 26",
+        "styleUrl": "#icon-503-A61B4A",
+        "styleHash": "7e07a098",
+        "description": "id: poiVerTra1<br>name: Tramhalte Rietlandpark/tram 26<br>Latitude: 52.374097<br>Longitude: 4.934131<br>Categorie: Vervoer/tram",
+        "id": "poiVerTra1",
+        "Latitude": 52.374097,
+        "Longitude": 4.934131,
+        "Categorie": "Vervoer/tram"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.921332,
+          52.376153,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tramhalte Kattenburgerstraat/tram 26",
+        "styleUrl": "#icon-503-A61B4A",
+        "styleHash": "7e07a098",
+        "description": "id: poiVerTra2<br>name: Tramhalte Kattenburgerstraat/tram 26<br>Latitude: 52.376153<br>Longitude: 4.921332<br>Categorie: Vervoer/tram",
+        "id": "poiVerTra2",
+        "Latitude": 52.376153,
+        "Longitude": 4.921332,
+        "Categorie": "Vervoer/tram"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.913165,
+          52.377239,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tramhalte Muziekgebouw Bimhuis/tram 26",
+        "styleUrl": "#icon-503-A61B4A",
+        "styleHash": "7e07a098",
+        "description": "id: poiVerTra3<br>name: Tramhalte Muziekgebouw Bimhuis/tram 26<br>Latitude: 52.377239<br>Longitude: 4.913165<br>Categorie: Vervoer/tram",
+        "id": "poiVerTra3",
+        "Latitude": 52.377239,
+        "Longitude": 4.913165,
+        "Categorie": "Vervoer/tram"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.890617,
+          52.40198,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nautisch Plein",
+        "styleUrl": "#icon-503-D698AD",
+        "styleHash": "3147acb8",
+        "description": "id: poiAP3<br>name: Nautisch Plein<br>Latitude: 52.401980<br>Longitude: 4.890617<br>Categorie: Activiteit",
+        "id": "poiAP3",
+        "Latitude": "52.401980",
+        "Longitude": 4.890617,
+        "Categorie": "Activiteit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892512,
+          52.400168,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca - Bistro Noord",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor1<br>name: Horeca - Bistro Noord<br>Latitude: 52.400168<br>Longitude: 4.892512<br>Categorie: Horeca",
+        "id": "poiHor1",
+        "Latitude": 52.400168,
+        "Longitude": 4.892512,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.893375,
+          52.399005,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca - Pllek",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor2<br>name: Horeca - Pllek<br>Latitude: 52.399005<br>Longitude: 4.893375<br>Categorie: Horeca",
+        "id": "poiHor2",
+        "Latitude": 52.399005,
+        "Longitude": 4.893375,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89682,
+          52.399593,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca - Noorderlicht",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor3<br>name: Horeca - Noorderlicht<br>Latitude: 52.399593<br>Longitude: 4.896820<br>Categorie: Horeca",
+        "id": "poiHor3",
+        "Latitude": 52.399593,
+        "Longitude": "4.896820",
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.891046,
+          52.401537,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca - Ij Kantine",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor4<br>name: Horeca - Ij Kantine<br>Latitude: 52.401537<br>Longitude: 4.891046<br>Categorie: Horeca",
+        "id": "poiHor4",
+        "Latitude": 52.401537,
+        "Longitude": 4.891046,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.893754000000001,
+          52.400711,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca - Brooklyn",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor5<br>name: Horeca - Brooklyn<br>Latitude: 52.400711<br>Longitude: 4.893754<br>Categorie: Horeca",
+        "id": "poiHor5",
+        "Latitude": 52.400711,
+        "Longitude": 4.893754,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.889339,
+          52.400596,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca - Botel",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor6<br>name: Horeca - Botel<br>Latitude: 52.400596<br>Longitude: 4.889339<br>Categorie: Horeca",
+        "id": "poiHor6",
+        "Latitude": 52.400596,
+        "Longitude": 4.889339,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.889754,
+          52.401465,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca - Pollux",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor7<br>name: Horeca - Pollux<br>Latitude: 52.401465<br>Longitude: 4.889754<br>Categorie: Horeca",
+        "id": "poiHor7",
+        "Latitude": 52.401465,
+        "Longitude": 4.889754,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.890613,
+          52.401681,
+          0
+        ]
+      },
+      "properties": {
+        "name": "EHBO",
+        "styleUrl": "#icon-503-93D7E8",
+        "styleHash": "-71daa3c8",
+        "description": "id: poiEHBO9<br>name: EHBO<br>Latitude: 52.401681<br>Longitude: 4.890613<br>Categorie: EHBO",
+        "id": "poiEHBO9",
+        "Latitude": 52.401681,
+        "Longitude": 4.890613,
+        "Categorie": "EHBO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892796000000001,
+          52.40061600000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "EHBO",
+        "styleUrl": "#icon-503-93D7E8",
+        "styleHash": "-71daa3c8",
+        "description": "id: poiEHBO10<br>name: EHBO<br>Latitude: 52.400616<br>Longitude: 4.892796<br>Categorie: EHBO",
+        "id": "poiEHBO10",
+        "Latitude": 52.400616,
+        "Longitude": 4.892796,
+        "Categorie": "EHBO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.893411,
+          52.399183,
+          0
+        ]
+      },
+      "properties": {
+        "name": "EHBO",
+        "styleUrl": "#icon-503-93D7E8",
+        "styleHash": "-71daa3c8",
+        "description": "id: poiEHBO11<br>name: EHBO<br>Latitude: 52.399183<br>Longitude: 4.893411<br>Categorie: EHBO",
+        "id": "poiEHBO11",
+        "Latitude": 52.399183,
+        "Longitude": 4.893411,
+        "Categorie": "EHBO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.896306,
+          52.3995,
+          0
+        ]
+      },
+      "properties": {
+        "name": "EHBO",
+        "styleUrl": "#icon-503-93D7E8",
+        "styleHash": "-71daa3c8",
+        "description": "id: poiEHBO12<br>name: EHBO<br>Latitude: 52.399500<br>Longitude: 4.896306<br>Categorie: EHBO",
+        "id": "poiEHBO12",
+        "Latitude": "52.399500",
+        "Longitude": 4.896306,
+        "Categorie": "EHBO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.896201,
+          52.400405,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toiletten",
+        "styleUrl": "#icon-503-F8971B",
+        "styleHash": "-64db7e28",
+        "description": "id: poiToi21<br>name: Toiletten<br>Latitude: 52.400405<br>Longitude: 4.896201<br>Categorie: Toiletten",
+        "id": "poiToi21",
+        "Latitude": 52.400405,
+        "Longitude": 4.896201,
+        "Categorie": "Toiletten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.894452,
+          52.399272,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toiletten",
+        "styleUrl": "#icon-503-F8971B",
+        "styleHash": "-64db7e28",
+        "description": "id: poiToi22<br>name: Toiletten<br>Latitude: 52.399272<br>Longitude: 4.894452<br>Categorie: Toiletten",
+        "id": "poiToi22",
+        "Latitude": 52.399272,
+        "Longitude": 4.894452,
+        "Categorie": "Toiletten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.893214,
+          52.400638,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toiletten",
+        "styleUrl": "#icon-503-F8971B",
+        "styleHash": "-64db7e28",
+        "description": "id: poiToi23<br>name: Toiletten<br>Latitude: 52.400638<br>Longitude: 4.893214<br>Categorie: Toiletten",
+        "id": "poiToi23",
+        "Latitude": 52.400638,
+        "Longitude": 4.893214,
+        "Categorie": "Toiletten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.890605,
+          52.401854,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toiletten",
+        "styleUrl": "#icon-503-F8971B",
+        "styleHash": "-64db7e28",
+        "description": "id: poiToi24<br>name: Toiletten<br>Latitude: 52.401854<br>Longitude: 4.890605<br>Categorie: Toiletten",
+        "id": "poiToi24",
+        "Latitude": 52.401854,
+        "Longitude": 4.890605,
+        "Categorie": "Toiletten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.894593,
+          52.401117,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toiletten",
+        "styleUrl": "#icon-503-F8971B",
+        "styleHash": "-64db7e28",
+        "description": "id: poiToi25<br>name: Toiletten<br>Latitude: 52.401117<br>Longitude: 4.894593<br>Categorie: Toiletten",
+        "id": "poiToi25",
+        "Latitude": 52.401117,
+        "Longitude": 4.894593,
+        "Categorie": "Toiletten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.891679,
+          52.401182,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pinautomaat",
+        "styleUrl": "#icon-503-62AF44",
+        "styleHash": "-6cd1e4a8",
+        "description": "id: poiPIN1<br>name: Pinautomaat<br>Latitude: 52.401182<br>Longitude: 4.891679<br>Categorie: Pinautomaat",
+        "id": "poiPIN1",
+        "Latitude": 52.401182,
+        "Longitude": 4.891679,
+        "Categorie": "Pinautomaat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89175,
+          52.401095000000005,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pinautomaat ",
+        "styleUrl": "#icon-503-62AF44",
+        "styleHash": "-6cd1e4a8",
+        "description": "id: poiPIN2<br>name: Pinautomaat <br>Latitude: 52.401095<br>Longitude: 4.891750<br>Categorie: Pinautomaat",
+        "id": "poiPIN2",
+        "Latitude": 52.401095,
+        "Longitude": "4.891750",
+        "Categorie": "Pinautomaat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.934064,
+          52.374643,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pinautomaat ",
+        "styleUrl": "#icon-503-62AF44",
+        "styleHash": "-6cd1e4a8",
+        "description": "id: poiPIN3<br>name: Pinautomaat <br>Latitude: 52.374643<br>Longitude: 4.934064<br>Categorie: Pinautomaat",
+        "id": "poiPIN3",
+        "Latitude": 52.374643,
+        "Longitude": 4.934064,
+        "Categorie": "Pinautomaat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.908224,
+          52.377859,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor8<br>name: Horeca<br>Latitude: 52.377859<br>Longitude: 4.908224<br>Categorie: Horeca",
+        "id": "poiHor8",
+        "Latitude": 52.377859,
+        "Longitude": 4.908224,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.909211,
+          52.37802,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor9<br>name: Horeca<br>Latitude: 52.378020<br>Longitude: 4.909211<br>Categorie: Horeca",
+        "id": "poiHor9",
+        "Latitude": "52.378020",
+        "Longitude": 4.909211,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.915449000000001,
+          52.37821,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor10<br>name: Horeca<br>Latitude: 52.378210<br>Longitude: 4.915449<br>Categorie: Horeca",
+        "id": "poiHor10",
+        "Latitude": "52.378210",
+        "Longitude": 4.915449,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.916133,
+          52.378085,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor11<br>name: Horeca<br>Latitude: 52.378085<br>Longitude: 4.916133<br>Categorie: Horeca",
+        "id": "poiHor11",
+        "Latitude": 52.378085,
+        "Longitude": 4.916133,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.919877,
+          52.377359,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor12<br>name: Horeca<br>Latitude: 52.377359<br>Longitude: 4.919877<br>Categorie: Horeca",
+        "id": "poiHor12",
+        "Latitude": 52.377359,
+        "Longitude": 4.919877,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.916675,
+          52.37791200000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor13<br>name: Horeca<br>Latitude: 52.377912<br>Longitude: 4.916675<br>Categorie: Horeca",
+        "id": "poiHor13",
+        "Latitude": 52.377912,
+        "Longitude": 4.916675,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91854,
+          52.37763,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor14<br>name: Horeca<br>Latitude: 52.377630<br>Longitude: 4.918540<br>Categorie: Horeca",
+        "id": "poiHor14",
+        "Latitude": "52.377630",
+        "Longitude": "4.918540",
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.92199,
+          52.376988,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor15<br>name: Horeca<br>Latitude: 52.376988<br>Longitude: 4.921990<br>Categorie: Horeca",
+        "id": "poiHor15",
+        "Latitude": 52.376988,
+        "Longitude": "4.921990",
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.926275,
+          52.376217,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor16<br>name: Horeca<br>Latitude: 52.376217<br>Longitude: 4.926275<br>Categorie: Horeca",
+        "id": "poiHor16",
+        "Latitude": 52.376217,
+        "Longitude": 4.926275,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.928458,
+          52.375851,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor17<br>name: Horeca<br>Latitude: 52.375851<br>Longitude: 4.928458<br>Categorie: Horeca",
+        "id": "poiHor17",
+        "Latitude": 52.375851,
+        "Longitude": 4.928458,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.926357,
+          52.376209,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor18<br>name: Horeca<br>Latitude: 52.376209<br>Longitude: 4.926357<br>Categorie: Horeca",
+        "id": "poiHor18",
+        "Latitude": 52.376209,
+        "Longitude": 4.926357,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.933324,
+          52.375061,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor19<br>name: Horeca<br>Latitude: 52.375061<br>Longitude: 4.933324<br>Categorie: Horeca",
+        "id": "poiHor19",
+        "Latitude": 52.375061,
+        "Longitude": 4.933324,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.935517,
+          52.377184,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor20<br>name: Horeca<br>Latitude: 52.377184<br>Longitude: 4.935517<br>Categorie: Horeca",
+        "id": "poiHor20",
+        "Latitude": 52.377184,
+        "Longitude": 4.935517,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.936406,
+          52.377455,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor21<br>name: Horeca<br>Latitude: 52.377455<br>Longitude: 4.936406<br>Categorie: Horeca",
+        "id": "poiHor21",
+        "Latitude": 52.377455,
+        "Longitude": 4.936406,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.930504000000001,
+          52.37776,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor22<br>name: Horeca<br>Latitude: 52.377760<br>Longitude: 4.930504<br>Categorie: Horeca",
+        "id": "poiHor22",
+        "Latitude": "52.377760",
+        "Longitude": 4.930504,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.927984,
+          52.378198,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor23<br>name: Horeca<br>Latitude: 52.378198<br>Longitude: 4.927984<br>Categorie: Horeca",
+        "id": "poiHor23",
+        "Latitude": 52.378198,
+        "Longitude": 4.927984,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.925703,
+          52.3786,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor24<br>name: Horeca<br>Latitude: 52.378600<br>Longitude: 4.925703<br>Categorie: Horeca",
+        "id": "poiHor24",
+        "Latitude": "52.378600",
+        "Longitude": 4.925703,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.922884,
+          52.378717,
+          0
+        ]
+      },
+      "properties": {
+        "name": "L'Invite",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor25<br>name: L'Invite<br>Latitude: 52.378717<br>Longitude: 4.922884<br>Categorie: Horeca",
+        "id": "poiHor25",
+        "Latitude": 52.378717,
+        "Longitude": 4.922884,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.920499,
+          52.379852,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor26<br>name: Horeca<br>Latitude: 52.379852<br>Longitude: 4.920499<br>Categorie: Horeca",
+        "id": "poiHor26",
+        "Latitude": 52.379852,
+        "Longitude": 4.920499,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.922796,
+          52.380008,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor27<br>name: Horeca<br>Latitude: 52.380008<br>Longitude: 4.922796<br>Categorie: Horeca",
+        "id": "poiHor27",
+        "Latitude": 52.380008,
+        "Longitude": 4.922796,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.918815,
+          52.382448,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor28<br>name: Horeca<br>Latitude: 52.382448<br>Longitude: 4.918815<br>Categorie: Horeca",
+        "id": "poiHor28",
+        "Latitude": 52.382448,
+        "Longitude": 4.918815,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.911334,
+          52.382184,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor29<br>name: Horeca<br>Latitude: 52.382184<br>Longitude: 4.911334<br>Categorie: Horeca",
+        "id": "poiHor29",
+        "Latitude": 52.382184,
+        "Longitude": 4.911334,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.909156,
+          52.381816,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor30<br>name: Horeca<br>Latitude: 52.381816<br>Longitude: 4.909156<br>Categorie: Horeca",
+        "id": "poiHor30",
+        "Latitude": 52.381816,
+        "Longitude": 4.909156,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.929887,
+          52.384719000000004,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor31<br>name: Horeca<br>Latitude: 52.384719<br>Longitude: 4.929887<br>Categorie: Horeca",
+        "id": "poiHor31",
+        "Latitude": 52.384719,
+        "Longitude": 4.929887,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.910411,
+          52.375473,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Horeca",
+        "styleUrl": "#icon-503-795046",
+        "styleHash": "-1fc827e8",
+        "description": "id: poiHor32<br>name: Horeca<br>Latitude: 52.375473<br>Longitude: 4.910411<br>Categorie: Horeca",
+        "id": "poiHor32",
+        "Latitude": 52.375473,
+        "Longitude": 4.910411,
+        "Categorie": "Horeca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.93535,
+          52.37725,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chill and Charge (KPN)",
+        "styleUrl": "#icon-503-F4B400",
+        "styleHash": "-4ded3848",
+        "description": "id: poiTel1<br>name: Chill and Charge (KPN)<br>Latitude: 52.37725<br>Longitude: 4.93535<br>Categorie: Oplaadpunt telefoon",
+        "id": "poiTel1",
+        "Latitude": 52.37725,
+        "Longitude": 4.93535,
+        "Categorie": "Oplaadpunt telefoon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.920719,
+          52.37964,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chill and Charge (KPN)",
+        "styleUrl": "#icon-503-F4B400",
+        "styleHash": "-4ded3848",
+        "description": "id: poiTel2<br>name: Chill and Charge (KPN)<br>Latitude: 52.379640<br>Longitude: 4.920719<br>Categorie: Oplaadpunt telefoon",
+        "id": "poiTel2",
+        "Latitude": "52.379640",
+        "Longitude": 4.920719,
+        "Categorie": "Oplaadpunt telefoon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91061,
+          52.38227,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chill and Charge (KPN)",
+        "styleUrl": "#icon-503-F4B400",
+        "styleHash": "-4ded3848",
+        "description": "id: poiTel3<br>name: Chill and Charge (KPN)<br>Latitude: 52.38227<br>Longitude: 4.91061<br>Categorie: Oplaadpunt telefoon",
+        "id": "poiTel3",
+        "Latitude": 52.38227,
+        "Longitude": 4.91061,
+        "Categorie": "Oplaadpunt telefoon"
+      }
+    }
+  ]
+}
