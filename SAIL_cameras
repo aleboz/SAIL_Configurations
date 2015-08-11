@@ -1,0 +1,120 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9059212,
+          52.3782452,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "01-Ruijterkade-Camera-WiFi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9297982,
+          52.3757171,
+          0
+        ]
+      },
+      "properties": {
+        "name": "02-Veemkade-Camera-WiFi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9355274,
+          52.3747362,
+          0
+        ]
+      },
+      "properties": {
+        "name": "03-Veemkade-Camera-WiFi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9383438,
+          52.3755926,
+          0
+        ]
+      },
+      "properties": {
+        "name": "04-Verbindingsdam-Camera-WiFi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9250105,
+          52.3786987,
+          0
+        ]
+      },
+      "properties": {
+        "name": "05-Javakade-Camera-Wifi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9254692,
+          52.3796697,
+          0
+        ]
+      },
+      "properties": {
+        "name": "06-Sumatrakade-WiFi-Camera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9155638,
+          52.3814526,
+          0
+        ]
+      },
+      "properties": {
+        "name": "07-Motorwal-Camera-WiFi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9093759,
+          52.3817195,
+          0
+        ]
+      },
+      "properties": {
+        "name": "08-Ijplein-Camera-WiFi"
+      }
+    }
+  ]
+}
