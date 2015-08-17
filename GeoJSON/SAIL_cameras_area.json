@@ -36,7 +36,8 @@
         ]
       },
       "properties": {
-        "name": "01-Ruijterkade-Camera-WiFi-Loose"
+        "name": "01-Ruijterkade-Camera-WiFi-Loose",
+        "id": "c01"
       }
     },
     {
