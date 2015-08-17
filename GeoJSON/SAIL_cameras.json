@@ -12,7 +12,8 @@
         ]
       },
       "properties": {
-        "name": "01-Ruijterkade-Camera-WiFi"
+        "name": "01-Ruijterkade-Camera-WiFi",
+        "id": "c01"
       }
     },
     {
@@ -26,7 +27,8 @@
         ]
       },
       "properties": {
-        "name": "02-Veemkade-Camera-WiFi"
+        "name": "02-Veemkade-Camera-WiFi",
+        "id": "c02"
       }
     },
     {
@@ -40,7 +42,8 @@
         ]
       },
       "properties": {
-        "name": "03-Veemkade-Camera-WiFi"
+        "name": "03-Veemkade-Camera-WiFi",
+        "id": "c03"
       }
     },
     {
@@ -54,7 +57,8 @@
         ]
       },
       "properties": {
-        "name": "04-Verbindingsdam-Camera-WiFi"
+        "name": "04-Verbindingsdam-Camera-WiFi",
+        "id": "c04"
       }
     },
     {
@@ -68,7 +72,8 @@
         ]
       },
       "properties": {
-        "name": "05-Javakade-Camera-Wifi"
+        "name": "05-Javakade-Camera-Wifi",
+        "id": "c05"
       }
     },
     {
@@ -82,7 +87,8 @@
         ]
       },
       "properties": {
-        "name": "06-Sumatrakade-WiFi-Camera"
+        "name": "06-Sumatrakade-WiFi-Camera",
+        "id": "c06"
       }
     },
     {
@@ -96,7 +102,8 @@
         ]
       },
       "properties": {
-        "name": "07-Motorwal-Camera-WiFi"
+        "name": "07-Motorwal-Camera-WiFi",
+        "id": "c07"
       }
     },
     {
@@ -110,7 +117,8 @@
         ]
       },
       "properties": {
-        "name": "08-Ijplein-Camera-WiFi"
+        "name": "08-Ijplein-Camera-WiFi",
+        "id": "c08"
       }
     }
   ]
