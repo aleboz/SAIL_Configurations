@@ -75,7 +75,8 @@
         ]
       },
       "properties": {
-        "name": "02-Veemkade-Camera-WiFi-Loose"
+        "name": "02-Veemkade-Camera-WiFi-Loose",
+        "id": "c02"
       }
     },
     {
@@ -113,7 +114,8 @@
         ]
       },
       "properties": {
-        "name": "03-Veemkade-Camera-Loose"
+        "name": "03-Veemkade-Camera-Loose",
+        "id": "c03"
       }
     },
     {
@@ -151,7 +153,8 @@
         ]
       },
       "properties": {
-        "name": "04-Verbindingsdam-Camera-WiFi-Loose"
+        "name": "04-Verbindingsdam-Camera-WiFi-Loose",
+        "id": "c04"
       }
     },
     {
@@ -189,7 +192,8 @@
         ]
       },
       "properties": {
-        "name": "05-Javakade-Camera-Wifi-Loose"
+        "name": "05-Javakade-Camera-Wifi-Loose",
+        "id": "c05"
       }
     },
     {
@@ -227,7 +231,8 @@
         ]
       },
       "properties": {
-        "name": "06-Sumatrakade-WiFi-Camera-Loose"
+        "name": "06-Sumatrakade-WiFi-Camera-Loose",
+        "id": "c06"
       }
     },
     {
@@ -265,7 +270,8 @@
         ]
       },
       "properties": {
-        "name": "07-Motorwal-Camera-WiFi-Loose"
+        "name": "07-Motorwal-Camera-WiFi-Loose",
+        "id": "c07"
       }
     },
     {
@@ -303,7 +309,8 @@
         ]
       },
       "properties": {
-        "name": "08-Ijplein-Camera-WiFi-Loose"
+        "name": "08-Ijplein-Camera-WiFi-Loose",
+        "id": "c08"
       }
     },
     {
