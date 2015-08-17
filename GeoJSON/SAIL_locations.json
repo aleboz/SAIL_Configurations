@@ -4,11 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "id": "oranjehaven",
         "name": "Oranjehaven",
         "oId": "oOceaan"
@@ -84,11 +79,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "id": "ijpleinmuziektent",
         "name": "IJplein Muziektent",
         "oId": "oOceaan"
@@ -136,11 +126,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "oId": "oOceaan",
         "name": "ING Eiland",
         "id": "ingeiland"
@@ -176,11 +161,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "id": "aquarena",
         "name": "Aquarena",
         "oId": "oOceaan"
@@ -220,11 +200,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "id": "kopjava",
         "name": "Kop Java",
         "oId": "oOceaan"
@@ -280,11 +255,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "id": "kromhouthal",
         "name": "Kromhouthal",
         "oId": "oOceaan"
@@ -320,11 +290,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "name": "Podium Bogortuin",
         "id": "podiumbogortuin ",
         "oId": "oOceaan"
@@ -380,11 +345,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "id": "kopjavapodium",
         "name": "Podium Kop Java",
         "oId": "oOceaan"
@@ -420,11 +380,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "id": "ruijterkade",
         "name": "Ruijterkade",
         "oId": "oOceaan"
@@ -460,11 +415,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "id": "sailexperience",
         "name": "SAIL Experience",
         "oId": "oOceaan"
@@ -516,11 +466,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "id": "sailmusicmarina",
         "name": "SAIL Music Marina",
         "oId": "oOceaan"
@@ -560,11 +505,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "id": "sailsation",
         "name": "SAILsation",
         "oId": "oOceaan"
@@ -600,11 +540,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "id": "sixhaven",
         "name": "Sixhaven",
         "oId": "oOceaan"
@@ -644,11 +579,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "id": "koffiehuiskhl",
         "name": "Koffiehuis KHL",
         "oId": "oOceaan"
