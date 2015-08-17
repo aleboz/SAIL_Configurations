@@ -12,9 +12,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "name": "01-Ruijterkade-Camera-WiFi"
       }
     },
