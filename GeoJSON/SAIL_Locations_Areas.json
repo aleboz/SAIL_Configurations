@@ -1418,6 +1418,166 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#00f900",
+        "fill-opacity": 0.5,
+        "name": "Amsterdam Marina",
+        "id": "amsterdammarina",
+        "oId": "gOceaan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.883294105529785,
+              52.40397674414758
+            ],
+            [
+              4.887349605560303,
+              52.407197040866926
+            ],
+            [
+              4.889945983886719,
+              52.405953458206916
+            ],
+            [
+              4.885568618774414,
+              52.40269379623663
+            ],
+            [
+              4.883294105529785,
+              52.40397674414758
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#00f900",
+        "fill-opacity": 0.5,
+        "name": "Damen Shiprepair Amsterdam",
+        "id": "damenshiprepairamsterdam",
+        "oId": "gOceaan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.882328510284424,
+              52.40939613280831
+            ],
+            [
+              4.880719184875487,
+              52.40796935350337
+            ],
+            [
+              4.883272647857666,
+              52.406830514884454
+            ],
+            [
+              4.885311126708984,
+              52.40845367825798
+            ],
+            [
+              4.882328510284424,
+              52.40939613280831
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#00f900",
+        "fill-opacity": 0.5,
+        "name": "Lasloods",
+        "id": "lasloods",
+        "oId": "gOceaan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.893314838409424,
+              52.40198684981262
+            ],
+            [
+              4.894559383392334,
+              52.402981808198845
+            ],
+            [
+              4.89591121673584,
+              52.40240578239423
+            ],
+            [
+              4.894516468048096,
+              52.40143699476247
+            ],
+            [
+              4.893314838409424,
+              52.40198684981262
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#00f900",
+        "fill-opacity": 0.5,
+        "name": "Stichting NDSM-Herleeft",
+        "id": "stichtingndsm",
+        "oId": "gOceaan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.897198677062988,
+              52.40086094878876
+            ],
+            [
+              4.897735118865967,
+              52.4013453515879
+            ],
+            [
+              4.898786544799804,
+              52.40087404082623
+            ],
+            [
+              4.898228645324707,
+              52.40037654067145
+            ],
+            [
+              4.897198677062988,
+              52.40086094878876
+            ]
+          ]
+        ]
+      }
     }
   ]
 }
